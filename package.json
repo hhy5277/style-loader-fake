@@ -1,0 +1,19 @@
+{
+  "name": "style-loader-fake",
+  "version": "1.0.0",
+  "description": "仿造的style-loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youngwind/style-loader-fake.git"
+  },
+  "author": "youngwind",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youngwind/style-loader-fake/issues"
+  },
+  "homepage": "https://github.com/youngwind/style-loader-fake#readme"
+}
